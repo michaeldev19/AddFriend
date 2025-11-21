@@ -1,0 +1,19 @@
+## Interface: 30200
+## Title: AddFriend - [|cffb1997fUltimoWoW|r]
+## Author: fyrye
+## Version: 3.27
+## Notes: Adds Friend and Guild options to the context menu of player units.
+## eMail: fyrye@hotmail.com
+## OptionalDeps: LibStub, CallbackHandler-1.0, Ace3
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## X-Curse-Packaged-Version: r22
+## X-Curse-Project-Name: AddFriend
+## X-Curse-Project-ID: addfriend
+## X-Curse-Repository-ID: wow/addfriend/mainline
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+AddFriend.lua
