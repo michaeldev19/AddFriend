@@ -1,0 +1,9 @@
+AF_LOCALE = {}
+AF_LOCALE["Add_Friend"] = "Añadir amigo"
+AF_LOCALE["Remove_Friend"] = "Eliminar amigo"
+AF_LOCALE["Add_Guild"] = "Invitar a la hermandad"
+AF_LOCALE["Remove_Guild"] = "Eliminar de la hermandad"
+AF_LOCALE["Add_Friend_TT"] = "Añade al jugador a tu lista de amigos"
+AF_LOCALE["Remove_Friend_TT"] = "Elimina al jugador de tu lista de amigos"
+AF_LOCALE["Add_Guild_TT"] = "Invita a este jugador a unirse a tu hermandad"
+AF_LOCALE["Remove_Guild_TT"] = "Elimina a este jugador de tu hermandad"

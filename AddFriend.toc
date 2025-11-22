@@ -1,6 +1,6 @@
-## Interface: 30200
-## Title: AddFriend - [|cffb1997fUltimoWoW|r]
-## Author: fyrye
+## Interface: 30300
+## Title: AddFriend
+## Author: fyrye (Modified by Shinji)
 ## Version: 3.27
 ## Notes: Adds Friend and Guild options to the context menu of player units.
 ## eMail: fyrye@hotmail.com
