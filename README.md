@@ -38,7 +38,8 @@ The original version and foundational code for this addon were created by: **fyr
 
 ## Contributions
 
-Issues and suggestions are highly welcome! If you find a bug, have an idea for a new feature, or want to contribute code, please feel free to:
+Issues and suggestions are welcome! Feel free to open an issue or submit a pull request.
 
-* **Open an Issue**
-* **Submit a Pull Request**
+---
+
+This update (v3.27) and its maintenance are dedicated to keeping this essential tool functional and improved for the community.
