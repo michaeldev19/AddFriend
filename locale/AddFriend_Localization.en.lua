@@ -1,9 +1,10 @@
-AF_LOCALE = {}
-AF_LOCALE["Add_Friend"] = "Add Friend"
-AF_LOCALE["Remove_Friend"] = "Remove Friend"
-AF_LOCALE["Add_Guild"] = "Invite to Guild"
-AF_LOCALE["Remove_Guild"] = "Remove from Guild"
-AF_LOCALE["Add_Friend_TT"] = "Add player to your friends list"
-AF_LOCALE["Remove_Friend_TT"] = "Remove player from your friends list"
-AF_LOCALE["Add_Guild_TT"] = "Invite this player to join your guild"
-AF_LOCALE["Remove_Guild_TT"] = "Remove this player from your guild"
+L = setmetatable(L or {}, {__index = L})
+
+L["OP_Add_Friend"] = "Add Friend"
+L["OP_Remove_Friend"] = "Remove Friend"
+L["OP_Add_Guild"] = "Invite to Guild"
+L["OP_Remove_Guild"] = "Remove from Guild"
+L["TT_Add_Friend"] = "Add player to your friends list"
+L["TT_Remove_Friend"] = "Remove player from your friends list"
+L["TT_Add_Guild"] = "Invite this player to join your guild"
+L["TT_Remove_Guild"] = "Remove this player from your guild"
